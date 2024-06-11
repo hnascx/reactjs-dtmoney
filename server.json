@@ -13,8 +13,32 @@
       "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 50,
+      "price": 60,
       "createdAt": "2024-06-11T02:40:15.548Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-06-11T02:24:15.548Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Trabalho",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2024-06-11T17:21:44.273Z",
+      "id": 4
+    },
+    {
+      "description": "Fralda",
+      "category": "Higiene",
+      "price": 29,
+      "type": "outcome",
+      "createdAt": "2024-06-11T17:40:38.151Z",
+      "id": 5
     }
   ]
 }
