@@ -7,3 +7,6 @@ Application developed using React.js, TypeScript, and styled-components. It util
 
 ### Running
 `npm run dev`
+
+### Running fake database
+`npm run dev:server`
